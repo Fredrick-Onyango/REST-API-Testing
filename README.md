@@ -4,7 +4,7 @@ Testing of API User End point using Postman f""
 
 
 **Instructions to setup**
- 1. Select a get request option and paste in the url endpoint: [url!] https://jsonplaceholder.typicode.com/users
+ 1. Select a get request option and paste in the url endpoint: https://jsonplaceholder.typicode.com/users
  1. Copy paste the code from the test.js file into the test tab in Postman.
  1. Open the console log: click view then >> Show postman console
  1. Click send to execute the tests
