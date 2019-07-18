@@ -1,5 +1,5 @@
 # REST-API-Testing
-Testing of API User End point using Postman f""
+Testing of API User End point using Postman test collection(JavaScript)
 
 
 
@@ -13,8 +13,3 @@ Testing of API User End point using Postman f""
  1. Case sensitive matching was needed - group != GROUP
  1. console.log was used for the logging of output
  1. Optimization was not key requirement - so regex was chosen for its elegance /simplicity
- 
- 
- 
-
-
